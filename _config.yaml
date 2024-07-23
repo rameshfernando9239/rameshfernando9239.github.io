@@ -2,4 +2,4 @@ title: Ramesh Fernando
 #logo: /assets/img/headshot_circle.png
 description: Motivated Engineer.
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: pages-themes/cayman@v0.2.0
