@@ -2,9 +2,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Computer Architecture | Singapore University of Technology and Design (_Reading_)								       		
-- M.Sc., Computer Science	| University of Moratuwa, Sri Lanka (_June 2024_)	 			        		
-- B.Sc., Electrical and Telecommunication Engineering | University of Ruhuna, Sri Lanka  (_December 2017_)
+- Ph.D., Computer Architecture: Singapore University of Technology and Design (_Reading_)								       		
+- M.Sc., Computer Science: University of Moratuwa, Sri Lanka (_June 2024_)	 			        		
+- B.Sc., Electrical and Telecommunication Engineering: University of Ruhuna, Sri Lanka  (_December 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
